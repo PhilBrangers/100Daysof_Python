@@ -1,2 +1,2 @@
 # 100Daysof_Python
-100 Dyas of Python by Angela Yu
+100 Days of Python by Angela Yu
